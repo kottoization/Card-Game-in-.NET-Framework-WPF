@@ -1,0 +1,110 @@
+C:\Users\aniut\source\repos\probny\probny\obj\Debug\probny.csprojAssemblyReference.cache
+C:\Users\aniut\source\repos\probny\probny\obj\Debug\MainWindow.g.cs
+C:\Users\aniut\source\repos\probny\probny\obj\Debug\OknoGry.g.cs
+C:\Users\aniut\source\repos\probny\probny\obj\Debug\OknoZasady.g.cs
+C:\Users\aniut\source\repos\probny\probny\obj\Debug\App.g.cs
+C:\Users\aniut\source\repos\probny\probny\obj\Debug\probny_MarkupCompile.cache
+C:\Users\aniut\source\repos\probny\probny\obj\Debug\probny_MarkupCompile.lref
+C:\Users\aniut\source\repos\probny\probny\bin\Debug\probny.exe.config
+C:\Users\aniut\source\repos\probny\probny\bin\Debug\probny.exe
+C:\Users\aniut\source\repos\probny\probny\bin\Debug\probny.pdb
+C:\Users\aniut\source\repos\probny\probny\obj\Debug\MainWindow.baml
+C:\Users\aniut\source\repos\probny\probny\obj\Debug\OknoGry.baml
+C:\Users\aniut\source\repos\probny\probny\obj\Debug\OknoZasady.baml
+C:\Users\aniut\source\repos\probny\probny\obj\Debug\probny.g.resources
+C:\Users\aniut\source\repos\probny\probny\obj\Debug\probny.Properties.Resources.resources
+C:\Users\aniut\source\repos\probny\probny\obj\Debug\probny.csproj.GenerateResource.cache
+C:\Users\aniut\source\repos\probny\probny\obj\Debug\probny.csproj.CoreCompileInputs.cache
+C:\Users\aniut\source\repos\probny\probny\obj\Debug\probny.exe
+C:\Users\aniut\source\repos\probny\probny\obj\Debug\probny.pdb
+C:\Users\aniut\source\repos\probny\probny\obj\Debug\InputDialog.g.cs
+C:\Users\aniut\source\repos\probny\probny\obj\Debug\InputDialog.baml
+C:\Users\mateu_000\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny.csprojAssemblyReference.cache
+C:\Users\mateu_000\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\InputDialog.g.cs
+C:\Users\mateu_000\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\MainWindow.g.cs
+C:\Users\mateu_000\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\OknoGry.g.cs
+C:\Users\mateu_000\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\OknoZasady.g.cs
+C:\Users\mateu_000\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\App.g.cs
+C:\Users\mateu_000\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny_MarkupCompile.cache
+C:\Users\mateu_000\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny_MarkupCompile.lref
+C:\Users\mateu_000\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny.exe
+C:\Users\mateu_000\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny.pdb
+C:\Users\mateu_000\Dropbox\card_game-master\projekt_probny_ania\probny\bin\Debug\probny.exe.config
+C:\Users\mateu_000\Dropbox\card_game-master\projekt_probny_ania\probny\bin\Debug\probny.exe
+C:\Users\mateu_000\Dropbox\card_game-master\projekt_probny_ania\probny\bin\Debug\probny.pdb
+C:\Users\mateu_000\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\InputDialog.baml
+C:\Users\mateu_000\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\MainWindow.baml
+C:\Users\mateu_000\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\OknoGry.baml
+C:\Users\mateu_000\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\OknoZasady.baml
+C:\Users\mateu_000\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny.g.resources
+C:\Users\mateu_000\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny.Properties.Resources.resources
+C:\Users\mateu_000\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny.csproj.GenerateResource.cache
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\bin\Debug\probny.exe.config
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\bin\Debug\probny.exe
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\bin\Debug\probny.pdb
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny.csproj.AssemblyReference.cache
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\InputDialog.g.cs
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\MainWindow.g.cs
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\OknoGry.g.cs
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\OknoZasady.g.cs
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\App.g.cs
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny_MarkupCompile.cache
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny_MarkupCompile.lref
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\InputDialog.baml
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\MainWindow.baml
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\OknoGry.baml
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\OknoZasady.baml
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny.g.resources
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny.Properties.Resources.resources
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny.csproj.GenerateResource.cache
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny.csproj.CoreCompileInputs.cache
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny.exe
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny.pdb
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\bin\Debug\probny.xml
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\bin\Debug\EntityFramework.dll
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\bin\Debug\EntityFramework.xml
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\DropBox_PO\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny.csproj.CopyComplete
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\bin\Debug\probny.exe.config
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\bin\Debug\probny.xml
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\bin\Debug\probny.exe
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\bin\Debug\probny.pdb
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\bin\Debug\EntityFramework.dll
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\bin\Debug\EntityFramework.xml
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny.csprojAssemblyReference.cache
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\InputDialog.g.cs
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\MainWindow.g.cs
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\OknoGry.g.cs
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\OknoZasady.g.cs
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\App.g.cs
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny_MarkupCompile.cache
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny_MarkupCompile.lref
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\InputDialog.baml
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\MainWindow.baml
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\OknoGry.baml
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\OknoZasady.baml
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny.g.resources
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny.Properties.Resources.resources
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny.csproj.GenerateResource.cache
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny.csproj.CoreCompileInputs.cache
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny.csproj.CopyComplete
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny.exe
+C:\Users\aniut\Dropbox\card_game-master\projekt_probny_ania\probny\obj\Debug\probny.pdb
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 2\C#\ProjrktPO_Tkachenko_Petryla_Mulka\probny\bin\Debug\probny.xml
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 2\C#\ProjrktPO_Tkachenko_Petryla_Mulka\probny\obj\Debug\probny.csprojAssemblyReference.cache
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 2\C#\ProjrktPO_Tkachenko_Petryla_Mulka\probny\obj\Debug\InputDialog.g.cs
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 2\C#\ProjrktPO_Tkachenko_Petryla_Mulka\probny\obj\Debug\MainWindow.g.cs
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 2\C#\ProjrktPO_Tkachenko_Petryla_Mulka\probny\obj\Debug\OknoGry.g.cs
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 2\C#\ProjrktPO_Tkachenko_Petryla_Mulka\probny\obj\Debug\OknoZasady.g.cs
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 2\C#\ProjrktPO_Tkachenko_Petryla_Mulka\probny\obj\Debug\App.g.cs
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 2\C#\ProjrktPO_Tkachenko_Petryla_Mulka\probny\obj\Debug\probny_MarkupCompile.cache
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 2\C#\ProjrktPO_Tkachenko_Petryla_Mulka\probny\obj\Debug\probny_MarkupCompile.lref
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 2\C#\ProjrktPO_Tkachenko_Petryla_Mulka\probny\obj\Debug\InputDialog.baml
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 2\C#\ProjrktPO_Tkachenko_Petryla_Mulka\probny\obj\Debug\MainWindow.baml
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 2\C#\ProjrktPO_Tkachenko_Petryla_Mulka\probny\obj\Debug\OknoGry.baml
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 2\C#\ProjrktPO_Tkachenko_Petryla_Mulka\probny\obj\Debug\OknoZasady.baml
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 2\C#\ProjrktPO_Tkachenko_Petryla_Mulka\probny\obj\Debug\probny.g.resources
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 2\C#\ProjrktPO_Tkachenko_Petryla_Mulka\probny\obj\Debug\probny.pdb

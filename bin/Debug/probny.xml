@@ -1,0 +1,402 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>probny</name>
+    </assembly>
+    <members>
+        <member name="T:probny.App">
+            <summary>
+            Logika interakcji dla klasy App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:probny.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:probny.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:probny.Card">
+            <summary>
+            Klasa reprezentująca kartę którą posługują się gracze
+            </summary>
+        </member>
+        <member name="P:probny.Card.Name">
+            <summary>
+            Nazwa karty
+            </summary>
+        </member>
+        <member name="P:probny.Card.Hp">
+            <summary>
+            Liczba punktów zdrowia, do wykorzystania w kolejnych wersjach gry
+            </summary>
+        </member>
+        <member name="P:probny.Card.Attack">
+            <summary>
+            Liczba reprezentująca moc karty - liczba punktów ataku
+            </summary>
+        </member>
+        <member name="P:probny.Card.Text">
+            <summary>
+            Opis karty
+            </summary>
+        </member>
+        <member name="M:probny.Card.#ctor">
+            <summary>
+            Konstruktor domyślny, przygotowany na przyszłość w razie serializacji do pliku .xml
+            </summary>
+        </member>
+        <member name="M:probny.Card.#ctor(System.String,System.Int32,System.Int32,System.String)">
+            <summary>
+            Konstruktor parametryczny nadający wartośći propertom klasy
+            </summary>
+            <param name="name"> nazwa karty</param>
+            <param name="hp">liczba pkt. zdrowia </param>
+            <param name="attack">liczba pkt. ataku </param>
+            <param name="text">opis katrty</param>
+        </member>
+        <member name="M:probny.Card.CompareTo(probny.Card)">
+            <summary>
+            Metoda implemetująca interfejs IComparable, przyrównująca daną kartę do przekazanej w argumencie metody 
+            </summary>
+            <param name="other">przekazana jako argument do porównania </param>
+            <returns>int jako typ zwracany operacji porównania</returns>
+        </member>
+        <member name="T:probny.Deck">
+            <summary>
+            Klasa reprezentująca talię kart 
+            </summary>
+        </member>
+        <member name="P:probny.Deck.Name">
+            <summary>
+            Nazwa talii
+            </summary>
+        </member>
+        <member name="M:probny.Deck.#ctor">
+            <summary>
+            Konstruktor inicjujący kolekcję jako pulę kart
+            </summary>
+        </member>
+        <member name="M:probny.Deck.#ctor(System.String)">
+            <summary>
+            Konstruktor parametryczny do przypisania nazwy do talii
+            </summary>
+            <param name="name"></param>
+        </member>
+        <member name="M:probny.Deck.RemoveCard(System.String)">
+            <summary>
+            Metoda usuwająca kartę wg podanej nazwy o ile karta o takiej nazwie istnieje w talii
+            </summary>
+            <param name="name"></param>
+        </member>
+        <member name="F:probny.Deck.rnd">
+            <summary>
+            Klasa reperzentująca generator liczb losowych
+            </summary>
+        </member>
+        <member name="M:probny.Deck.Shuffle">
+            <summary>
+            Metoda służąca do tasowania obiektów klasy
+            </summary>
+        </member>
+        <member name="T:probny.Gracz">
+            <summary>
+            Klasa reprezentująca gracza
+            </summary>
+        </member>
+        <member name="M:probny.Gracz.#cctor">
+            <summary>
+            Konstruktor statyczny przypisujący liczbę kryształów many - tzn. liczbę żyć
+            </summary>
+        </member>
+        <member name="M:probny.Gracz.#ctor">
+            <summary>
+            Konstruktor nieparamertyczny do ewentualnej seralizacji
+            </summary>
+        </member>
+        <member name="M:probny.Gracz.#ctor(System.String,System.Int32)">
+            <summary>
+            Kosntruktor parametryczny
+            </summary>
+            <param name="nick">Nazwa gracza</param>
+            <param name="liczba">Liczba punktów</param>
+        </member>
+        <member name="P:probny.Gracz.Liczba_krysztalow_many">
+            <summary>
+            Getter oraz setter liczby kryształów many
+            </summary>
+        </member>
+        <member name="P:probny.Gracz.Nick">
+            <summary>
+            Getter oraz setter nicku gracza
+            </summary>
+        </member>
+        <member name="M:probny.Gracz.Graj">
+            <summary>
+            Metoda interfejsu IGrajacy
+            </summary>
+        </member>
+        <member name="T:probny.IGrajacy">
+            <summary>
+            Interfejs do wykorzystania w kolejnych wersjach, implementowany przez klasę Gracz
+            </summary>
+        </member>
+        <member name="M:probny.IGrajacy.Graj">
+            <summary>
+            metoda interfejsu
+            </summary>
+        </member>
+        <member name="T:probny.InputDialog">
+            <summary>
+            Logika interakcji dla klasy InputDialog.xaml
+            </summary>
+            <summary>
+            InputDialog
+            </summary>
+        </member>
+        <member name="M:probny.InputDialog.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:probny.MainWindow">
+            <summary>
+            Klasa reprezentująca okno główne gry
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="F:probny.MainWindow.cursor">
+            <summary>
+            Klasa reprezentująca kursor myszki
+            </summary>
+        </member>
+        <member name="M:probny.MainWindow.#ctor">
+            <summary>
+            Metoda inicjalizująca okno główne
+            </summary>
+        </member>
+        <member name="M:probny.MainWindow.RegisterEvents">
+            <summary>
+            Metoda zapewniająca działanie przycisków w oknie głównym tak aby wywoływały odpowiednie metody jednostkowe
+            </summary>
+        </member>
+        <member name="M:probny.MainWindow.MainMenu_MouseLeave(System.Object,System.Windows.Input.MouseEventArgs)">
+            <summary>
+            Metoda zapewniająca nie wyświetlanie się podświetlanego podpisu gdy kursor znajduje sie poza zasięgiem przycisku
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:probny.MainWindow.btn_wyjscieGra_MouseEnter(System.Object,System.Windows.Input.MouseEventArgs)">
+            <summary>
+             Metoda zapewniająca wyświetlanie się podświetlanego podpisu z pytaniem czy wyjść z gry
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:probny.MainWindow.btn_zasady_MouseEnter(System.Object,System.Windows.Input.MouseEventArgs)">
+            <summary>
+            Metoda zapewniająca wyświetlanie się podświetlanego podpisu z pytaniem czy wyświetlić zasady
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:probny.MainWindow.btn_nowaGra_MouseEnter(System.Object,System.Windows.Input.MouseEventArgs)">
+            <summary>
+            Metoda zapewniającawyświetlanie się podświetlanego podpisu z pytaniem czy Rozpocząć nową grę
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:probny.MainWindow.btn_nowaGra_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Przycisk obsługujący rozpoczęcie nowej gry
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:probny.MainWindow.btn_wyjscieGra_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Przycisk obsługujący wyjście z gry
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:probny.MainWindow.btn_zasady_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Przycisk obsługujący pojawienie się okna zasad
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:probny.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:probny.OknoGry">
+            <summary>
+            Logika interakcji dla klasy OknoGry.xaml
+            </summary>
+            <summary>
+            OknoGry
+            </summary>
+        </member>
+        <member name="F:probny.OknoGry.project_path">
+            <summary>
+            Path to project folder
+            </summary>
+        </member>
+        <member name="F:probny.OknoGry.imagePath">
+            <summary>
+            Path to images folder
+            </summary>
+        </member>
+        <member name="F:probny.OknoGry.xmlPath">
+            <summary>
+            Path to XML file
+            </summary>
+        </member>
+        <member name="F:probny.OknoGry.liczba_przegranych_komputer">
+            <summary>
+            Counter of the number of lost games
+            </summary>
+        </member>
+        <member name="M:probny.OknoGry.Write_to_DB">
+            <summary>
+            Connection with the entity. And write to the database.
+            </summary>
+        </member>
+        <member name="M:probny.OknoGry.#ctor">
+            <summary>
+            The nonparametric constructor of class OknoGry.
+            Initialize Component.
+            Initializes music in the background.
+            Changes the appearance of the cursor.
+            Sets the initial variables to zero.
+            Generates a deck.
+            </summary>
+        </member>
+        <member name="M:probny.OknoGry.Deck_Generator">
+            <summary>
+            Function generates a deck of cards using data contained in XML.
+            The XML file is divided into identical blocks that have the same ending nodes (leafs ).
+            Using the loop, the program passes to all nodes and writes each leafs in a variable.
+            The structure of the node looks like this:
+                name - the name of the card
+                text - card description
+                hp - the amount of health card
+                attak - the number of attacks card
+                index - node numbering
+                img - the name of the card image file located in the folder *obrazki*
+                counter - this indicator is needed for the program to know how many duplicates of the card should be made
+            </summary>
+        </member>
+        <member name="M:probny.OknoGry.Shuffle(System.Windows.Controls.Image[],probny.Deck)">
+            <summary>
+            The function randomly selects cards from the deck and inserts them at  the card slots
+            </summary>
+            <param name="img_array"> Array of *places* for cards.</param>
+            <param name="deck">A deck of cards from which cards will be randomly generated</param>
+        </member>
+        <member name="M:probny.OknoGry.MulliganAsync(probny.Deck,System.Windows.Controls.Image[])">
+            <summary>
+            If there is a card in the deck with an attack equal to one,
+            then this card is replaced by a random other card.
+            (Also, this card may have an attack of 1).
+            </summary>
+            <param name="deck"></param>
+            <param name="img_arr"></param>
+            <returns></returns>
+        </member>
+        <member name="M:probny.OknoGry.Button_Shuffle(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            When pressed, the function changes the cards on the table to new ones randomly selected from the deck of cards.
+            </summary>
+            <param name="sender">~</param>
+            <param name="e">~</param>
+        </member>
+        <member name="M:probny.OknoGry.Button_Play(System.Object,System.Windows.RoutedEventArgs)">
+             <summary>
+             After clicking, the program calculates the number of points for the player and the computer. 
+            If the player has more points, the program reports it and takes one unit of health from the computer.
+            If there are more points in the computer, the player is deprived of 1 unit of health.
+            if there is a draw (ie points are equal) then no one is wasting their heart.
+            The game continues until one of the players has lost all his hearts.
+            There are also motivational messages for the user. :)
+             </summary>
+             <param name="sender">~</param>
+             <param name="e">~</param>
+        </member>
+        <member name="M:probny.OknoGry.Button_Restart(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            If the user presses this button, the player's table will be cleared of 
+            cards and his health will be set to the maximum value, as well as the 
+            health of the computer. That is, this button starts the game again.
+            </summary>
+            <param name="sender">~</param>
+            <param name="e">~</param>
+        </member>
+        <member name="M:probny.OknoGry.Button_Main_Menu(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            The function hides the window *OknoGry*, and go to a new window *MainWindow*.
+            In addition, the function sets the value *gracz.Liczba_krysztalow_many* as 5.
+            And liczba_przegranych_komputer as 0.
+            </summary>
+            <param name="sender">~</param>
+            <param name="e">~</param>
+        </member>
+        <member name="M:probny.OknoGry.Button_Mulligan(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            If a player presses this button and has a card with an attack equal to one,
+            he uses a mulligan and draws one card with that strength again. 
+            A card is removed from its list of cards on the table,
+            an image of the back of the card is displayed, and a new card is then drawn.
+            
+            A mulligan is an optional process by which any player may attempt to draw a better opening hand before starting the game.
+            </summary>
+        </member>
+        <member name="M:probny.OknoGry.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:probny.OknoZasady">
+            <summary>
+            Logika interakcji dla klasy OknoZasady.xaml
+            </summary>
+            <summary>
+            OknoZasady
+            </summary>
+        </member>
+        <member name="M:probny.OknoZasady.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:probny.Properties.Resources">
+            <summary>
+              Silnie typizowana klasa zasobów do wyszukiwania zlokalizowanych ciągów itd.
+            </summary>
+        </member>
+        <member name="P:probny.Properties.Resources.ResourceManager">
+            <summary>
+              Zwraca buforowane wystąpienie składnika ResourceManager używane przez tę klasę.
+            </summary>
+        </member>
+        <member name="P:probny.Properties.Resources.Culture">
+            <summary>
+              Przesłania właściwość CurrentUICulture bieżącego wątku dla wszystkich
+              przypadków przeszukiwania zasobów za pomocą tej silnie typizowanej klasy zasobów.
+            </summary>
+        </member>
+    </members>
+</doc>

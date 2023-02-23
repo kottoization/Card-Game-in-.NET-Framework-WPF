@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<set>
+    <!--Archer -->
+
+    <card tir = "archer_1" >
+        <id>0</id>
+        <name>Archer</name>
+        <hp>1</hp>
+        <attak>1</attak>
+        <text>broń</text>
+        <counter>4</counter>
+        <img>archer_1.png</img>
+    </card>
+    <card tir = "archer_2" >
+        <id>1</id>
+        <name>Archer</name>
+        <hp>1</hp>
+        <attak>2</attak>
+        <text>broń</text>
+        <counter>3</counter>
+        <img>archer_2.png</img>
+    </card>
+    <card tir = "archer_3" >
+        <id>2</id>
+        <name>Archer</name>
+        <hp>1</hp>
+        <attak>3</attak>
+        <text>broń</text>
+        <counter>2</counter>
+        <img>archer_3.png</img>
+    </card>
+    <card tir = "archer_4" >
+        <id>3</id>
+        <name>Archer</name>
+        <hp>1</hp>
+        <attak>4</attak>
+        <text>broń</text>
+        <counter>1</counter>
+        <img>archer_4.png</img>
+    </card>
+
+    <!--Dwarf-->
+
+    <card tir = "dwarf_1" >
+        <id>4</id>
+        <name>Dwarf</name>
+        <hp>1</hp>
+        <attak>1</attak>
+        <text>broń</text>
+        <counter>4</counter>
+        <img>dwarf_1.png</img>
+    </card>
+    <card tir = "dwarf_2" >
+        <id>5</id>
+        <name>Dwarf</name>
+        <hp>1</hp>
+        <attak>2</attak>
+        <text>broń</text>
+        <counter>3</counter>
+        <img>dwarf_2.png</img>
+    </card>
+    <card tir = "dwarf_3" >
+        <id>6</id>
+        <name>Dwarf</name>
+        <hp>1</hp>
+        <attak>3</attak>
+        <text>broń</text>
+        <counter>2</counter>
+        <img>dwarf_3.png</img>
+    </card>
+    <card tir = "dwarf_4" >
+        <id>7</id>
+        <name>Dwarf</name>
+        <hp>1</hp>
+        <attak>4</attak>
+        <text>broń</text>
+        <counter>1</counter>
+        <img>dwarf_4.png</img>
+    </card>
+
+    <!--Mage -->
+
+    <card tir = "mage_1" >
+        <id>8</id>
+        <name>Mage</name>
+        <hp>1</hp>
+        <attak>1</attak>
+        <text>broń</text>
+        <counter>4</counter>
+        <img>mage_1.png</img>
+    </card>
+    <card tir = "mage_2" >
+        <id>9</id>
+        <name>Mage</name>
+        <hp>1</hp>
+        <attak>2</attak>
+        <text>broń</text>
+        <counter>3</counter>
+        <img>mage_2.png</img>
+    </card>
+    <card tir = "mage_3" >
+        <id>10</id>
+        <name>Mage</name>
+        <hp>1</hp>
+        <attak>3</attak>
+        <text>broń</text>
+        <counter>2</counter>
+        <img>mage_3.png</img>
+    </card>
+    <card tir = "mage_4" >
+        <id>11</id>
+        <name>Mage</name>
+        <hp>1</hp>
+        <attak>4</attak>
+        <text>broń</text>
+        <counter>1</counter>
+        <img>mage_4.png</img>
+    </card>
+
+    <!-- Monk -->
+
+    <card tir = "monk_1" >
+        <id>12</id>
+        <name>Monk</name>
+        <hp>1</hp>
+        <attak>1</attak>
+        <text>broń</text>
+        <counter>4</counter>
+        <img>monk_1.png</img>
+    </card>
+    <card tir = "monk_2" >
+        <id>13</id>
+        <name>Monk</name>
+        <hp>1</hp>
+        <attak>2</attak>
+        <text>broń</text>
+        <counter>3</counter>
+        <img>monk_2.png</img>
+    </card>
+    <card tir = "monk_3" >
+        <id>14</id>
+        <name>Monk</name>
+        <hp>1</hp>
+        <attak>3</attak>
+        <text>broń</text>
+        <counter>2</counter>
+        <img>monk_3.png</img>
+    </card>
+    <card tir = "monk_4" >
+        <id>15</id>
+        <name>Monk</name>
+        <hp>1</hp>
+        <attak>4</attak>
+        <text>broń</text>
+        <counter>1</counter>
+        <img>monk_4.png</img>
+    </card>
+
+    <!-- Sellsword -->
+
+    <card tir = "sellsword_1" >
+        <id>16</id>
+        <name>Sellsword</name>
+        <hp>1</hp>
+        <attak>1</attak>
+        <text>broń</text>
+        <counter>4</counter>
+        <img>sellsword_1.png</img>
+    </card>
+    <card tir = "sellsword_2" >
+        <id>17</id>
+        <name>Sellsword</name>
+        <hp>1</hp>
+        <attak>2</attak>
+        <text>broń</text>
+        <counter>3</counter>
+        <img>sellsword_2.png</img>
+    </card>
+    <card tir = "sellsword_3" >
+        <id>18</id>
+        <name>Sellsword</name>
+        <hp>1</hp>
+        <attak>3</attak>
+        <text>broń</text>
+        <counter>2</counter>
+        <img>sellsword_3.png</img>
+    </card>
+    <card tir = "sellsword_4" >
+        <id>19</id>
+        <name>Sellsword</name>
+        <hp>1</hp>
+        <attak>4</attak>
+        <text>broń</text>
+        <counter>1</counter>
+        <img>sellsword_4.png</img>
+    </card>
+
+    <!-- Turnskin -->
+
+    <card tir = "turnskin_1" >
+        <id>20</id>
+        <name>Turnskin</name>
+        <hp>1</hp>
+        <attak>1</attak>
+        <text>broń</text>
+        <counter>4</counter>
+        <img>turnskin_1.png</img>
+    </card>
+    <card tir = "turnskin_2" >
+        <id>21</id>
+        <name>Turnskin</name>
+        <hp>1</hp>
+        <attak>2</attak>
+        <text>broń</text>
+        <counter>3</counter>
+        <img>turnskin_2.png</img>
+    </card>
+    <card tir = "turnskin_3" >
+        <id>22</id>
+        <name>Turnskin</name>
+        <hp>1</hp>
+        <attak>3</attak>
+        <text>broń</text>
+        <counter>2</counter>
+        <img>turnskin_3.png</img>
+    </card>
+    <card tir = "turnskin_4" >
+        <id>23</id>
+        <name>Turnskin</name>
+        <hp>1</hp>
+        <attak>4</attak>
+        <text>broń</text>
+        <counter>1</counter>
+        <img>turnskin_4.png</img>
+    </card>
+
+
+</set>
