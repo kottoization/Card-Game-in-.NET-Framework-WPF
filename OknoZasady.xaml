@@ -1,0 +1,26 @@
+﻿<Window x:Class="probny.OknoZasady"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:probny"
+        mc:Ignorable="d"
+        Title="OknoZasady" Height="450" Width="1326">
+
+
+    <ScrollViewer Margin="0,0,-8,0">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="408*"/>
+                <ColumnDefinition Width="35*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.Background>
+                <ImageBrush ImageSource="zasadyGry.png" Stretch="None" AlignmentY="Top"/>
+            </Grid.Background>
+            <Image Height="4680
+                   " Width="100" Margin="614,0,510,0"/>
+
+        </Grid>
+    </ScrollViewer>
+
+</Window>
